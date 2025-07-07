@@ -1,6 +1,7 @@
-#Data Scientist
+# Data Scientist
 
 ### Education
 Economics, BSc
 
-# Projects
+### Projects
+Python
