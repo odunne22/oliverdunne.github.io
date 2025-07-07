@@ -1,6 +1,6 @@
 # Data Scientist
 
-logo: /img/ollie_linkedin_photo.jpeg
+logo: ollie_linkedin_photo.jpeg
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
