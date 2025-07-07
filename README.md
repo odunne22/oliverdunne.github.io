@@ -1,1 +1,6 @@
-# oliverdunne.github.io
+#Data Scientist
+
+### Education
+Economics, BSc
+
+# Projects
